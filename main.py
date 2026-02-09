@@ -23,7 +23,7 @@ def isitaninteger(numero): #entero o no
 def main():
     print("¡Hola 🫡!")
     
-    # Ejemplos de uso (solo para probar)
+
     numeros = [1, 10, 25, 4]
     
     print("Suma:", addmultiplenumbers(numeros))
