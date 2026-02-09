@@ -32,19 +32,7 @@ def main():
     print("¿Es entero 24.5?:", isitaninteger(24.5))
 
 
-if __name__ == "__main__":
-    main()
 
-
-
-def main():
-    
-    nums = [1, 2, 3, 4]
-    
-    print("Suma:", addmultiplenumbers(nums))
-    print("Multiplicación:", multiplymultiplenumbers(nums))
-    print("¿Es par 4?:", isiteven(4))
-    print("¿Es entero 4.5?:", isitaninteger(4.5))
 
 
 if __name__ == "__main__":
